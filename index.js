@@ -5,4 +5,5 @@ console.log(a, b);
 
 // New changes
 console.log (a + b);
+console.log (a - b);
 
